@@ -1,5 +1,4 @@
-## Resumen 
-
+## resumen 
 # proyecto-ia actulizacion de concomientos
 
 Final project for the Building AI course
