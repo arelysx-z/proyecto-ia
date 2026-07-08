@@ -10,6 +10,8 @@ Describe briefly in 2-3 sentences what your project is about. About 250 characte
 
 ## Background
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
 This is how you make a list, if you need one:
